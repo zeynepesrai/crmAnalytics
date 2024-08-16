@@ -130,4 +130,4 @@ def create_rfm(dataframe, csv=False):
 
 
 rfm_new = create_rfm(df, csv=True)
-#final
+
